@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "dark_dash",
+      "featured": true,
+      "image": "https://picsum.photos/seed/dark_dash/1280/720",
+      "android": "com.ExtremeDevelopers.DarkDash",
+      "playStore": "https://play.google.com/store/apps/details?id=com.ExtremeDevelopers.DarkDash",
+      "texts": [
+        {
+          "lang": "ru",
+          "title": "Dark Dash",
+          "tagline": "Поймай ритм. Пройди испытание.",
+          "genre": "Ритм-платформер"
+        },
+        {
+          "lang": "en",
+          "title": "Dark Dash",
+          "tagline": "Catch the beat. Beat the challenge.",
+          "genre": "Rhythm platformer"
+        }
+      ]
+    },
+    {
+      "id": "sweet_candy_match",
+      "featured": false,
+      "image": "https://picsum.photos/seed/sweet_candy_match/1280/720",
+      "android": "com.Polegames.SweetCandyMatch",
+      "playStore": "https://play.google.com/store/apps/details?id=com.Polegames.SweetCandyMatch",
+      "texts": [
+        {
+          "lang": "ru",
+          "title": "Sweet Candy Match",
+          "tagline": "",
+          "genre": "Три в ряд"
+        },
+        {
+          "lang": "en",
+          "title": "Sweet Candy Match",
+          "tagline": "",
+          "genre": "Match 3"
+        }
+      ]
+    },
+    {
+      "id": "cat_adventure_2",
+      "featured": false,
+      "image": "https://picsum.photos/seed/cat_adventure_2/1280/720",
+      "android": "com.COOLGAMES.CatAdventure2",
+      "playStore": "https://play.google.com/store/apps/details?id=com.COOLGAMES.CatAdventure2&hl=ru",
+      "texts": [
+        {
+          "lang": "ru",
+          "title": "Cat Adventure 2",
+          "tagline": "",
+          "genre": "Приключения"
+        },
+        {
+          "lang": "en",
+          "title": "Cat Adventure 2",
+          "tagline": "",
+          "genre": "Adventure"
+        }
+      ]
+    },
+    {
+      "id": "wave_dash",
+      "featured": true,
+      "image": "https://picsum.photos/seed/wave_dash/1280/720",
+      "android": "com.PoleSoft.WaveArrowWorld",
+      "playStore": "https://play.google.com/store/apps/details?id=com.PoleSoft.WaveArrowWorld",
+      "texts": [
+        {
+          "lang": "ru",
+          "title": "Wave Dash",
+          "genre": "Ритм-аркада"
+        },
+        {
+          "lang": "en",
+          "title": "Wave Dash",
+          "genre": "Rhythm arcade"
+        }
+      ]
+    }
+  ],
+  "ui": [
+    {
+      "lang": "ru",
+      "title": "Наши игры",
+      "subtitle": "Твоя следующая любимая игра — здесь"
+    }
+  ]
+}
