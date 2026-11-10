@@ -4,7 +4,7 @@
     {
       "id": "dark_dash",
       "featured": true,
-      "image": "https://picsum.photos/seed/dark_dash/1280/720",
+      "image": "https://github.com/Lobster1234T/CrossPromo/blob/main/Images/DarkDash.png",
       "android": "com.ExtremeDevelopers.DarkDash",
       "playStore": "https://play.google.com/store/apps/details?id=com.ExtremeDevelopers.DarkDash",
       "texts": [
