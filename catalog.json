@@ -4,91 +4,43 @@
     {
       "id": "dark_dash",
       "featured": true,
+      "androidBundle": "com.ExtremeDevelopers.DarkDash",
       "image": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Images/DarkDash.png",
-      "android": "com.ExtremeDevelopers.DarkDash",
-      "playStore": "https://play.google.com/store/apps/details?id=com.ExtremeDevelopers.DarkDash",
+      "video": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Videos/DarkDash.mp4",
       "texts": [
-        {
-          "lang": "ru",
-          "title": "Dark Dash",
-          "tagline": "Поймай ритм. Пройди испытание.",
-          "genre": "Ритм-платформер"
-        },
-        {
-          "lang": "en",
-          "title": "Dark Dash",
-          "tagline": "Catch the beat. Beat the challenge.",
-          "genre": "Rhythm platformer"
-        }
+        { "lang": "ru", "title": "Dark Dash", "tagline": "Поймай ритм. Пройди испытание.", "genre": "Ритм-платформер" },
+        { "lang": "en", "title": "Dark Dash", "tagline": "Catch the beat. Beat the challenge.", "genre": "Rhythm platformer" }
       ]
     },
     {
       "id": "sweet_candy_match",
-      "featured": false,
+      "androidBundle": "com.Polegames.SweetCandyMatch",
       "image": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Images/CandyMatch.png",
-      "android": "com.Polegames.SweetCandyMatch",
-      "playStore": "https://play.google.com/store/apps/details?id=com.Polegames.SweetCandyMatch",
       "texts": [
-        {
-          "lang": "ru",
-          "title": "Sweet Candy Match",
-          "tagline": "",
-          "genre": "Три в ряд"
-        },
-        {
-          "lang": "en",
-          "title": "Sweet Candy Match",
-          "tagline": "",
-          "genre": "Match 3"
-        }
+        { "lang": "ru", "title": "Sweet Candy Match", "genre": "Три в ряд" },
+        { "lang": "en", "title": "Sweet Candy Match", "genre": "Match 3" }
       ]
     },
     {
       "id": "cat_adventure_2",
-      "featured": false,
+      "androidBundle": "com.COOLGAMES.CatAdventure2",
       "image": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Images/CatsMario.png",
-      "android": "com.COOLGAMES.CatAdventure2",
-      "playStore": "https://play.google.com/store/apps/details?id=com.COOLGAMES.CatAdventure2&hl=ru",
       "texts": [
-        {
-          "lang": "ru",
-          "title": "Cat Adventure 2",
-          "tagline": "",
-          "genre": "Приключения"
-        },
-        {
-          "lang": "en",
-          "title": "Cat Adventure 2",
-          "tagline": "",
-          "genre": "Adventure"
-        }
+        { "lang": "ru", "title": "Cat Adventure 2", "genre": "Приключения" },
+        { "lang": "en", "title": "Cat Adventure 2", "genre": "Adventure" }
       ]
     },
     {
       "id": "wave_dash",
-      "featured": false,
+      "androidBundle": "com.PoleSoft.WaveArrowWorld",
       "image": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Images/WaveDash.png",
-      "android": "com.PoleSoft.WaveArrowWorld",
-      "playStore": "https://play.google.com/store/apps/details?id=com.PoleSoft.WaveArrowWorld",
       "texts": [
-        {
-          "lang": "ru",
-          "title": "Wave Dash",
-          "genre": "Ритм-аркада"
-        },
-        {
-          "lang": "en",
-          "title": "Wave Dash",
-          "genre": "Rhythm arcade"
-        }
+        { "lang": "ru", "title": "Wave Dash", "genre": "Ритм-аркада" },
+        { "lang": "en", "title": "Wave Dash", "genre": "Rhythm arcade" }
       ]
     }
   ],
   "ui": [
-    {
-      "lang": "ru",
-      "title": "Наши игры",
-      "subtitle": "Твоя следующая любимая игра — здесь"
-    }
+    { "lang": "ru", "title": "Наши игры", "subtitle": "Твоя следующая любимая игра — здесь" }
   ]
 }
