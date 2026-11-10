@@ -4,7 +4,7 @@
     {
       "id": "dark_dash",
       "featured": true,
-      "image": "https://github.com/Lobster1234T/CrossPromo/blob/main/Images/DarkDash.png",
+      "image": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Images/DarkDash.png",
       "android": "com.ExtremeDevelopers.DarkDash",
       "playStore": "https://play.google.com/store/apps/details?id=com.ExtremeDevelopers.DarkDash",
       "texts": [
@@ -25,7 +25,7 @@
     {
       "id": "sweet_candy_match",
       "featured": false,
-      "image": "https://picsum.photos/seed/sweet_candy_match/1280/720",
+      "image": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Images/CandyMatch.png",
       "android": "com.Polegames.SweetCandyMatch",
       "playStore": "https://play.google.com/store/apps/details?id=com.Polegames.SweetCandyMatch",
       "texts": [
@@ -46,7 +46,7 @@
     {
       "id": "cat_adventure_2",
       "featured": false,
-      "image": "https://picsum.photos/seed/cat_adventure_2/1280/720",
+      "image": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Images/CatsMario.png",
       "android": "com.COOLGAMES.CatAdventure2",
       "playStore": "https://play.google.com/store/apps/details?id=com.COOLGAMES.CatAdventure2&hl=ru",
       "texts": [
@@ -66,8 +66,8 @@
     },
     {
       "id": "wave_dash",
-      "featured": true,
-      "image": "https://picsum.photos/seed/wave_dash/1280/720",
+      "featured": false,
+      "image": "https://raw.githubusercontent.com/Lobster1234T/CrossPromo/main/Images/WaveDash.png",
       "android": "com.PoleSoft.WaveArrowWorld",
       "playStore": "https://play.google.com/store/apps/details?id=com.PoleSoft.WaveArrowWorld",
       "texts": [
